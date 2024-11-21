@@ -59,6 +59,15 @@ header a {
     position: relative;
 }
 
+.model_s-img {
+    background-image: url('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-US.png');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
 .navbar {
     width: 100%;
     z-index: 10;
