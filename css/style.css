@@ -123,6 +123,17 @@ video {
     opacity: 0.9;
 }
 
+.terms{
+    text-align: center;
+    font-size: 12px;
+    line-height: 20px;
+    color: #5c5e62;
+}
+
+.terms a{
+    color: #393c41;
+}
+
 @media (min-width: 1200px) {
     .custom-collapse {
         background-color: transparent;
